@@ -12,8 +12,8 @@ one and then used that discount code to book Dee's, it would have saved us $US10
 
 We have been booking a few trips through TourRadar, partially because of their referral system. When you sign up using
 a referral code from someone else, you get a 5% discount and they get credit for 5% of the trips you book. Not just the
-first trip, all future trips too! So you should [have one person sign up](https://www.tourradar.com/invite/sunsetutopia)
-(using my referral obviously :), then have them refer a second person in your group. Book your tour for all of you
+first trip, all future trips too! So you should have one person sign up
+(using my referral obviously, [https://www.tourradar.com/invite/sunsetutopia](https://www.tourradar.com/invite/sunsetutopia) :), then have them refer a second person in your group. Book your tour for all of you
 except one using the second person, which will give plenty of credits to your first person. Then book the last tour
 using that first person to use up all your credit. Sneaky, but not against the rules since there are actually
 real people - so the same as referring friends.
