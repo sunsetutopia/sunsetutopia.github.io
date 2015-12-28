@@ -27,3 +27,10 @@ sitemap: false
 @import "animations";
 @import "dl-menu";
 @import "page";
+
+#map {
+  position:absolute;
+  width:50%;
+  height:50%;
+}
+
