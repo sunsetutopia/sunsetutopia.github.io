@@ -1,21 +1,21 @@
 title:            Sunset Utopia
-description:      Describe your website here.
+description:      James and Dee's travels around the world
 disqus_shortname: sunsetutopia
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:              #http://sunsetutopia.com
+url:              http://sunsetutopia.com
 
 # Owner/author information
 owner:
   name:           James and Danielle Livingston
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "A couple travelling the world"
   email:          doc@sunsetutopia.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        doctau
-  facebook:       
+  #twitter:        doctau
+  #facebook:       
   #github:         doctau
   #stackexchange:  doctau
   linkedin:       
