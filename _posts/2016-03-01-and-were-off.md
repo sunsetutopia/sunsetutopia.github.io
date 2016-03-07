@@ -6,6 +6,8 @@ modified: 2016-03-01
 tags: [blog]
 lat: -27.4667
 lng: 153.0333
+image:
+  feature: top-signpost.jpg
 ---
 
 Ding, dong, ding, dong, ding, dong, dingggggggg…. "Good morning ladies and gentlemen and welcome to the Virgin Australia Lounge, passengers travelling blah blah blah".

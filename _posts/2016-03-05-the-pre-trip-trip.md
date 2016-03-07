@@ -6,6 +6,8 @@ modified: 2016-03-05
 tags: [blog]
 lat: -35.3075
 lng: 149.1244
+image:
+  feature: top-signpost.jpg
 ---
 
 We made it to Canberra! Eventually…
