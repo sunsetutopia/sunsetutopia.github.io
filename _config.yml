@@ -26,7 +26,7 @@ owner:
   google_plus:    
 
 # Background image to be tiled on all pages
-background: 
+background: triangular.png
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-69138087-1
