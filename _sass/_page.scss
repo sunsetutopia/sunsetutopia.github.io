@@ -40,7 +40,7 @@ body {
 		margin: 10px 20px;
 		font-weight: 700;
 		@include font-rem(32);
-		color: lighten($base-color,20);
+		color: white; //lighten($base-color,20);
 		@media #{$medium} {
 			@include font-rem(48);
 		}
@@ -52,10 +52,13 @@ body {
 		margin: 0;
 		@include font-rem(18);
 		text-transform: uppercase;
-		color: lighten($base-color,40);
+		color: white; //lighten($base-color,40);
 		@media #{$medium} {
 			@include font-rem(24);
 		}
+	}
+	a {
+		color: white; //lighten($base-color,40);
 	}
 	p {
 		color: lighten($base-color,20);
