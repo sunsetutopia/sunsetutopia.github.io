@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When my baby smiles at me
+title: When my baby smiles at me, I go to Rio
 description: "Our stay in Rio de Janeiro"
 modified: 2016-04-19
 tags: [blog,brasil,riodejaneiro]
