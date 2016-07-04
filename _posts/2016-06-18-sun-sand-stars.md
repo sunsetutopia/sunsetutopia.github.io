@@ -3,7 +3,7 @@ layout: post
 title: Sun, Sand and Stars
 description: "Our trip to San Pedro de Atacama"
 modified: 2016-06-18
-tags: [blog,chile,sanpedro]
+tags: [rtw2016,chile,sanpedro]
 lat: -22.9087
 lng: -68.1997
 ---

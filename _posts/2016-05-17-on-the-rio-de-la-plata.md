@@ -3,7 +3,7 @@ layout: post
 title: On the Rio de la Plata
 description: "Our trip to Colonia del Sacramento"
 modified: 2016-05-17
-tags: [blog,uruguay,coloniadelsacramento]
+tags: [rtw2016,uruguay,coloniadelsacramento]
 lat: -34.4607
 lng: -57.8339
 ---

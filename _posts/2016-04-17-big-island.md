@@ -3,7 +3,7 @@ layout: post
 title: Big island
 description: "Our stay on Ilha Grande"
 modified: 2016-04-17
-tags: [blog,brasil,ilhagrande]
+tags: [rtw2016,brasil,ilhagrande]
 lat: -23.1521
 lng: -44.2289
 ---

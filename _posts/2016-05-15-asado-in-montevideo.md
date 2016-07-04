@@ -3,7 +3,7 @@ layout: post
 title: Asado in Montevideo
 description: "Our trip to Montevideo"
 modified: 2016-05-15
-tags: [blog,uruguay,montevideo]
+tags: [rtw2016,uruguay,montevideo]
 lat: -34.9011
 lng: -56.1645
 ---

@@ -3,7 +3,7 @@ layout: post
 title: And we're off!
 description: "Goodbye Brisbane, hello world"
 modified: 2016-03-01
-tags: [blog,australia,brisbane]
+tags: [rtw2016,australia,brisbane]
 lat: -27.4667
 lng: 153.0333
 ---

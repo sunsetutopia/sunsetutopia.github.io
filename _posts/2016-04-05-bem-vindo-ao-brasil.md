@@ -3,7 +3,7 @@ layout: post
 title: Bem vindo ao Brasil
 description: "Our stay in São Paulo"
 modified: 2016-04-05
-tags: [blog,brasil,saopaulo]
+tags: [rtw2016,brasil,saopaulo]
 lat: -23.5505
 lng: -46.6333
 ---

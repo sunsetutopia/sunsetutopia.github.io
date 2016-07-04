@@ -3,7 +3,7 @@ layout: post
 title: The pre-trip trip
 description: "or what to do in Canberra and Sydney for a few days"
 modified: 2016-03-05
-tags: [blog,australia,canberra,sydney]
+tags: [rtw2016,australia,canberra,sydney]
 lat: -35.3075
 lng: 149.1244
 ---

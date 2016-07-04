@@ -3,7 +3,7 @@ layout: post
 title: When my baby smiles at me, I go to Rio
 description: "Our stay in Rio de Janeiro"
 modified: 2016-04-19
-tags: [blog,brasil,riodejaneiro]
+tags: [rtw2016,brasil,riodejaneiro]
 lat: -22.9068
 lng: -43.1729
 ---

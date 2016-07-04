@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Melbourne, part 1
-description: ""
+description: "Visting family and friends in Melbourne"
 modified: 2016-03-26
-tags: [blog,australia,melbourne]
+tags: [rtw2016,australia,melbourne]
 lat: -37.814
 lng: 144.96332
 ---

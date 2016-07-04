@@ -3,7 +3,7 @@ layout: post
 title: Can I borrow a cup of salt?
 description: "Crossing the Atacama desert, seeing the Salar de Uyuni, and visiting Uyuni"
 modified: 2016-06-30
-tags: [blog,bolivia,chile,atacamadesert,salardeuyuni,uyuni]
+tags: [rtw2016,bolivia,chile,atacamadesert,salardeuyuni,uyuni]
 lat: -20.1338
 lng: -67.4891
 ---
@@ -175,7 +175,7 @@ Arriving into San Juan it was time to stock up on a few supplies and a quick toi
 [![Salt hotel](https://c7.staticflickr.com/8/7796/27430939310_0757762a53.jpg =500x375)](https://www.flickr.com/photos/140698305@N05/27430939310/in/album-72157669676582705/)
 
 
-Downing a beer or two we sat and chatted with the rest of the group, watched the sunset and got ready for another delicious dinner: warm vegetable soup followed by chicken and chips. Unfortunately the poor hosts at the hostel didn't appear to quite understand the difference between Vegatarian and Vegan - the Vegan option for dinner was eggs.
+Downing a beer or two we sat and chatted with the rest of the group, watched the sunset and got ready for another delicious dinner: warm vegetable soup followed by chicken and chips. Unfortunately the poor hosts at the hostel didn't appear to quite understand the difference between Vegetarian and Vegan - the Vegan option for dinner was eggs.
 
 Cruising to bed far too late (somewhere past 10:30pm), after some poorly attempted Spanish conversation with the drivers, we were extremely excited for our adventures the next day. Our alarms were set for 4:45am, a time that should not exist, ready for a 5am departure to see the sunrise across the salt flats. Armed with Selso's choice of music (a mixture of Adele, Bolivian keyboard classics, metal and the occasional hit of 80's classics), we were off and going. Along the way we needed to stop as a different company's Landcruiser was broken down.
 

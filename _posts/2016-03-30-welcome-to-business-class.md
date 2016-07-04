@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Business Class
 description: ""
 modified: 2016-03-30
-tags: [blog,flying]
+tags: [rtw2016,flying]
 lat: 24.466667
 lng: 54.366669
 ---

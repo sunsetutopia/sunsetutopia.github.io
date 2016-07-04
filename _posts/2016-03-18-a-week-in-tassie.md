@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A week in Tassie
-description: ""
+description: "Visiting family and friends in Tassie"
 modified: 2016-03-05
-tags: [blog,australia,tasmania,launceston,hobart]
+tags: [rtw2016,australia,tasmania,launceston,hobart]
 lat: -41.4371
 lng: 147.1394
 ---

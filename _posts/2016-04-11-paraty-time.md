@@ -3,7 +3,7 @@ layout: post
 title: Paraty time!
 description: "Our stay in Paraty"
 modified: 2016-04-11
-tags: [blog,brasil,paraty]
+tags: [rtw2016,brasil,paraty]
 lat: -23.2201
 lng: -44.7205
 ---

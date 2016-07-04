@@ -3,7 +3,7 @@ layout: post
 title: Don't cry for me Argentina
 description: "Our trip to Buenos Aires"
 modified: 2016-05-24
-tags: [blog,argentina,buenosaires]
+tags: [rtw2016,argentina,buenosaires]
 lat: -34.6037
 lng: -58.3816
 ---

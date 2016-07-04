@@ -3,7 +3,7 @@ layout: post
 title: Cool in Cordoba
 description: "Our trip to Córdoba (de Argentina)"
 modified: 2016-06-05
-tags: [blog,argentina,cordoba]
+tags: [rtw2016,argentina,cordoba]
 lat: -31.4201
 lng: -64.1888
 ---

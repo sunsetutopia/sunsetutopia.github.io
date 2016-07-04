@@ -3,7 +3,7 @@ layout: post
 title: Return to Porto Alegre
 description: "Our return to Porto Alegre"
 modified: 2016-05-10
-tags: [blog,brasil,portoalegre]
+tags: [rtw2016,brasil,portoalegre]
 lat: -30.03306
 lng: -51.23000
 ---

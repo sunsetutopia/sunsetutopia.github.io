@@ -3,7 +3,7 @@ layout: post
 title: Porto Alegre
 description: "Our stay in Porto Alegre"
 modified: 2016-04-30
-tags: [blog,brasil,portoalegre]
+tags: [rtw2016,brasil,portoalegre]
 lat: -30.03306
 lng: -51.23000
 ---
