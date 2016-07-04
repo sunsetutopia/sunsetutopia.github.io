@@ -39,7 +39,7 @@ From the border we headed to the Bolivian high plains visiting the first of the 
 [![Laguna Blanca](https://c5.staticflickr.com/8/7240/27531008252_b3be802c24.jpg =500x125)](https://www.flickr.com/photos/140698305@N05/27531008252/in/album-72157669676582705/)	
 
 
-The lagoon in located at the entrance to the Eduardo Abaroa Andean Fauna National Reserve and lies at the foot of the Lincancanbur Volcano. The lagoon contains borax; giving it a white reflective type surface. Piling back into the 4WD it was time to head to Laguna Verde (the Green Lagoon). Equally as picturesque as Laguna Blanca, the Green Lagoon contains copper, arsenic and a long list of other mineral sediments.
+The lagoon is located at the entrance to the Eduardo Abaroa Andean Fauna National Reserve and lies at the foot of the Lincancanbur Volcano. The lagoon contains borax; giving it a white reflective type surface. Piling back into the 4WD it was time to head to Laguna Verde (the Green Lagoon). Equally as picturesque as Laguna Blanca, the Green Lagoon contains copper, arsenic and a long list of other mineral sediments.
 
 [![Lagoon and volcano](https://c7.staticflickr.com/8/7337/27019991734_01d3437b52.jpg =500x375)](https://www.flickr.com/photos/140698305@N05/27019991734/in/album-72157669676582705/)
 
@@ -155,7 +155,7 @@ James trying to touch the volcano:
 [![James trying to touch the volcano](https://c4.staticflickr.com/8/7051/27097212843_671f99e6e7.jpg =500x375)](https://www.flickr.com/photos/140698305@N05/27097212843/in/album-72157669676582705/)
 
 
-Not far from the volcano was a single train line, quite literally in the middle of nowhere. Here we were able to see a little of what was to come on the salt flats, there were small patches of dried salt were sprawled around the desert.
+Not far from the volcano was a single train line, quite literally in the middle of nowhere. Here we were able to see a little of what was to come on the salt flats, there were small patches of dried salt sprawled around the desert.
 
 [![Train line](https://c7.staticflickr.com/8/7656/27095303974_bcba6e973d.jpg =500x375)](https://www.flickr.com/photos/140698305@N05/27095303974/in/album-72157669676582705/)
 
