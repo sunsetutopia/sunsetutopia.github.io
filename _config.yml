@@ -15,7 +15,9 @@ owner:
   email:          doc@sunsetutopia.com
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        doctau
-  #facebook:       
+  facebook:
+    dee:           missdee88
+    james:         doclivingston
   #github:         doctau
   #stackexchange:  doctau
   linkedin:       
@@ -24,6 +26,10 @@ owner:
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
   google_plus:    
+  tripadvisor:
+    dee:          x
+    james:        doclivingston
+  untappd:        doctau
 
 # Background image to be tiled on all pages
 background: forest-green-hexagon-tile-background-seamless-or-wallpaper--9858.jpg
