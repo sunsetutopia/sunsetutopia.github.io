@@ -26,6 +26,9 @@ image:
       </span><!-- /.entry-reading-time -->
       {% endif %}
     </div><!-- /.entry-meta -->
+    {% if page.flag %}
+      <!-- <span class="flag-icon flag-icon-{{ page.flag }}"></span> -->
+    {% endif %}
     {% if post.link %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
