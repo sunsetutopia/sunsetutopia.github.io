@@ -2,7 +2,7 @@
 layout: post
 title: There were more than Incas in Peru
 description: "Our trip to Trujillo"
-modified: 2016-09-23
+modified: 2016-09-28
 tags: [rtw2016,peru,trujillo]
 flag: pe
 lat: -8.1091
