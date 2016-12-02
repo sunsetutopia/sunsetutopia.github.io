@@ -368,3 +368,80 @@ All this is done for any sub-level being entered.
 .dl-menuopen li {
 	display: block
 }
+
+
+
+
+@media #{$large} {
+	.header-title {
+		padding: 2em 0 0;
+	}
+
+	.dl-menuwrapper {
+		// make the menu horizontal, full width, always visible
+		max-width: none;
+		top: 0px;
+		left: 0px;
+		.dl-menu {
+			opacity: 1;
+			width: auto;
+			pointer-events: auto;
+			-webkit-transform: none;
+			-moz-transform: none;
+			transform: none;
+			box-shadow: none;
+		}
+
+		.dl-menu li {
+			display: block;
+			float: left
+		}
+
+		// hide the button, menus always visible
+		.dl-trigger {
+			display: none;
+		}
+
+
+		// show sub-menus below, without back options
+		.dl-submenu li {
+			float: none
+		}
+
+		.dl-menu.dl-subview li,
+		.dl-menu.dl-subview li.dl-subviewopen > a,
+		.dl-menu.dl-subview li.dl-subview > a {
+			display: block;
+		}
+
+		// not sure why this doesn't work
+		li.dl-back {
+			display: none;
+		}
+
+		// shrink the image
+		img.author-photo {
+			width: 200px;
+		}
+
+		// disable the animations
+		.dl-animate-out {
+			-webkit-animation: MenuAnimOut 0.4ms ease;
+			-moz-animation: MenuAnimOut 0.4ms ease;
+			animation: MenuAnimOut 0.4ms ease;
+		}
+		.dl-animate-in {
+			-webkit-animation: MenuAnimIn 0.4ms ease;
+			-moz-animation: MenuAnimIn 0.4ms ease;
+			animation: MenuAnimIn 0.4ms ease;
+		}
+
+		// make box transparent
+		ul {
+			background: transparent;
+		}
+		li {
+			background: $comp-color;
+		}
+	}
+}
