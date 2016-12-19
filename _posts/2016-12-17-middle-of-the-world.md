@@ -9,7 +9,7 @@ lat: -0.1807
 lng: -78.4678
 ---
 
-Quito, not a place with five names, but a giant city spread across mountains and valleys. The city sits at an altitude of 2850 metres above sea level, it home to over two million people and is has been listed as the highest official capital city in the world.
+Quito, not a place with five names, but a giant city spread across mountains and valleys. The city sits at an altitude of 2850 metres above sea level, it is home to over two million people and has been listed as the highest official capital city in the world.
 
 We had left the Amazon, ready to leave behind the giant spiders but not ready to return to civilisation. Navigating ourselves at midnight Tuesday, in Quito was a bit of a mission; however, we made it and were thankful for the shower and comfortable bed awaiting us.
 
