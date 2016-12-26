@@ -4,6 +4,7 @@ title: Two hundred days
 description: "Our first hundred days of the around the world trip"
 modified: 2016-12-26
 tags: [rtw2016,milestone]
+og_image: https://c5.staticflickr.com/1/267/31347583220_be0344dc18.jpg
 ---
 
 Our two hundredth night was spent sitting under the stars on a sand dune, after a camel ride to camp in the Sahara desert. Pretty good for the night!
