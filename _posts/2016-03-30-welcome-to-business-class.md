@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Welcome to Business Class
-description: ""
+description: "Our flight from Melbourne to São Paulo"
 modified: 2016-03-30
-tags: [rtw2016,flying]
+tags: [rtw2016,flying,melbourne,saopaolo]
 lat: 24.466667
 lng: 54.366669
 ---
