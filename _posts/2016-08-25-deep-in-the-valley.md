@@ -3,7 +3,7 @@ layout: post
 title: Deep in the valley
 description: "Our trip to Arequipa and the Colca Canyon"
 modified: 2016-08-25
-tags: [rtw2016,peru,arequipa,colcacanyon]
+tags: [rtw2016,peru,arequipa,colcacanyon,hiking]
 flag: pe
 lat: -16.4090
 lng: -71.5375
