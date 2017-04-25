@@ -7,6 +7,7 @@ tags: [rtw2016,spain,granada]
 flag: es
 lat: 37.176487
 lng: -3.597929
+og_image: XXX
 ---
 
 Welcome to Granada, Spain. If there is anywhere in the world that does tapas well, it's Granada. It also has it's own eclectic flair on Moorish architecture, an Andalusian style charm that is like no other coupled with a hit of some of the best tapas available in Spain. Yes, we've hit the jackpot!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two hundred days
-description: "Our first hundred days of the around the world trip"
+description: "Our second hundred days of the around the world trip"
 modified: 2016-12-26
 tags: [rtw2016,milestone]
 og_image: https://c5.staticflickr.com/1/267/31347583220_be0344dc18.jpg
@@ -15,10 +15,10 @@ Our two hundredth night was spent sitting under the stars on a sand dune, after 
 The second hundred days had a lot of slow travel around Ecuador, internal flights in Colombia, buses and the occasional train in Spain and Portugal, more flights, and a packed minivan in Morocco. All up we had around 3560 km of overland transport and 15135 km of flying, plus around 730 km of walking around seeing things.
 
 
-![First one hundred days: South America](../images/rtw2016/200-days-route-south-america.png)
+![Second one hundred days: South America](../images/rtw2016/200-days-route-south-america.png)
 
 
-![First one hundred days: Europe](../images/rtw2016/200-days-route-europe.png)
+![Second one hundred days: Europe](../images/rtw2016/200-days-route-europe.png)
 
 Some of the highlights have been:
 
