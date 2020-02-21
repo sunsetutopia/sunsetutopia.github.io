@@ -3,9 +3,9 @@ description:      James and Dee's travels around the world
 disqus_shortname: sunsetutopia
 reading_time:     false
 words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# Your site's domain goes here (eg: //mmistakes.github.io, https://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:              http://sunsetutopia.com
+url:              https://sunsetutopia.com
 #url:              http://localhost:4000
 
 # Owner/author information
@@ -78,4 +78,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "l
 
 # Map
 map-tileset: 'http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png'
-map-credits: '<a target="_blank" href="http://sunsetutopia.com">Sunset Utopia</a> | Tiles: Stamen & OSM'
+map-credits: '<a target="_blank" href="https://sunsetutopia.com">Sunset Utopia</a> | Tiles: Stamen & OSM'
